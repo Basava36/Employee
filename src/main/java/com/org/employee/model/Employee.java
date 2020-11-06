@@ -13,6 +13,7 @@ public class Employee {
     private String empname;
     private String empadress;
     private double empsalary;
+    private int empage;
 
     public double getGetEmpSalary() {
         return getEmpSalary;
